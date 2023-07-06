@@ -1,0 +1,9 @@
+Your bill:
+De Anza Burger        Qty: 2          Price: $5.25      Total: $10.50
+Bacon Cheese          Qty: 1          Price: $5.75      Total: $5.75
+Mushroom Swiss        Qty: 0          Price: $5.95      Total: $0.00
+Western Burger        Qty: 3          Price: $5.95      Total: $17.85
+Don Cali Burger      Qty: 0          Price: $5.95      Total: $0.00
+--------------------------------------------------
+Price before tax: $34.10
+Price after tax: $36.48
